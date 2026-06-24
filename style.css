@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     display: flex;
     justify-content: center;
@@ -15,4 +16,23 @@ div {
     display: flex;
     justify-content: center;
     align-items: center;
+=======
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+div {
+    width: 100px;
+    height: 50px;
+    border: transparent;
+    box-shadow: 0 0 18px cyan;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+>>>>>>> ff087012f9e361f531068becfe7e342a68ace2f5
 }
