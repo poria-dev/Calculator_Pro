@@ -75,7 +75,7 @@ Although it's a simple calculator, it represents an important milestone in my we
 ### Windows Style View
 
 <p align="center">
-  <img src="./img/Calcpro2.png" width="900">
+  <img src="./img/calcpro2.png" width="900">
 </p>
 
 ---
