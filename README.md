@@ -19,6 +19,7 @@
 
 ---
 
+
 # 📖 About The Project
 
 **Calculator Pro** is one of my first projects built with JavaScript.
