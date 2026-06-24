@@ -83,7 +83,7 @@ Although it's a simple calculator, it represents an important milestone in my we
 # 📱 Mobile Responsive Design
 
 <p align="center">
-  <img src="./img/Calcres.png" width="300">
+  <img src="./img/calcres.png" width="300">
 </p>
 
 ---
