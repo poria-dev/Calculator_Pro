@@ -116,6 +116,7 @@ During the development of this project I practiced:
 
 ---
 
+
 # 🎯 Project Goals
 
 This project was created to:
