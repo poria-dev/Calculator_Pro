@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 # 🧮 Calculator Pro
 
 ### Modern Calculator Built With HTML, CSS & JavaScript
@@ -17,7 +19,9 @@
 
 </div>
 
+
 ---
+
 
 # 📖 About The Project
 
@@ -112,6 +116,7 @@ During the development of this project I practiced:
 - UI Design Principles
 
 ---
+
 
 # 🎯 Project Goals
 
